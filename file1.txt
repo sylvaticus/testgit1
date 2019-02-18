@@ -1,4 +1,4 @@
-line1
+line1 modified in branch2
 
 line2 edit this line
 
