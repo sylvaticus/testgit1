@@ -2,4 +2,4 @@ line1
 
 line2 edit this line
 
-
+edited in branch 1
